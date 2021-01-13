@@ -101,13 +101,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Criação e estilo do componente TOAST
 - Envio de e-mail de recuperação de senha
 
-![alt text]()
+# Pictures
 
-![alt text]()
+- Mobiles
 
-![alt text]()
-
-![alt text]()
+![alt text](https://github.com/rafaelfernandesbrgo/FullStack-NodeJs-React-ReactNative-GoBarber/blob/main/Mobile/arts/Art%20GoBarber%20Mobile%20(2).png)
 
 
-
+- Web
