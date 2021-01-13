@@ -1,0 +1,72 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true
+  },
+  "extends": [
+    "plugin:react/recommended",
+    "airbnb",
+    "plugin:@typescript-eslint/recommended",
+    "prettier/@typescript-eslint",
+    "plugin:prettier/recommended"
+  ],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "react",
+    "react-hooks",
+    "@typescript-eslint",
+    "prettier"
+  ],
+  "rules": {
+    "import/no-duplicates": "off",
+    "no-unused-expressions":"off",                            // para corrrigir bug q dá com 'curren?.'
+    "no-console": "off",                                      // permitir colocar console.log
+    "react/jsx-props-no-spreading":"off",                     // permitir desligar tipagem nesses casos, n faz sentido, pois uando typescript
+    "react/prop-types":"off",                                 // permitir desligar tipagem nesses casos, n faz sentido, pois uando typescript
+    "camelcase": 0,                                           // desliga vairaveis como camelcase
+    "@typescript-eslint/explicit-function-return-type": [     // se retorno em arrow function, n precisa tipar
+      "error",
+      {
+        "allowExpressions": true
+      }
+      ],
+      "no-use-before-define": "off",
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn",
+      "prettier/prettier": "error",
+      "react/jsx-filename-extension": [
+        1,
+        {
+          "extensions": [
+            ".tsx"
+          ]
+        }
+      ],
+      "import/prefer-default-export": "off",
+      "import/extensions": [
+        "error",
+        "ignorePackages",
+        {
+          "ts": "never",
+          "tsx": "never"
+        }
+      ]
+    },
+    "settings": {
+      "import/resolver": {
+        "typescript": {}
+      }
+    }
+  }
