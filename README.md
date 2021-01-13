@@ -101,6 +101,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Criação e estilo do componente TOAST
 - Envio de e-mail de recuperação de senha
 
+***
+
 # Pictures
 
 - Mobiles
