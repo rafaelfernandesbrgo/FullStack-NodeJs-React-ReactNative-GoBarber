@@ -107,5 +107,15 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ![alt text](https://github.com/rafaelfernandesbrgo/FullStack-NodeJs-React-ReactNative-GoBarber/blob/main/Mobile/arts/Art%20GoBarber%20Mobile%20(2).png)
 
+![alt text](https://github.com/rafaelfernandesbrgo/FullStack-NodeJs-React-ReactNative-GoBarber/blob/main/Mobile/arts/Art%20GoBarber%20Mobile%20(6).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/FullStack-NodeJs-React-ReactNative-GoBarber/blob/main/Mobile/arts/Art%20GoBarber%20Mobile%20(8).png)
+
 
 - Web
+
+![alt text](https://github.com/rafaelfernandesbrgo/FullStack-NodeJs-React-ReactNative-GoBarber/blob/main/Web/arts/Art%20GoBarber%20Web%20(4).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/FullStack-NodeJs-React-ReactNative-GoBarber/blob/main/Web/arts/Art%20GoBarber%20Web%20(1).png)
+
+
